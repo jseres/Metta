@@ -15,12 +15,12 @@ To access MettaDev wallet follow these steps.
 
 1. Establish automated wallet creation process. This should help 
 
-https://web3js.readthedocs.io/en/1.0/web3-eth-accounts.html
-
+     https://web3js.readthedocs.io/en/1.0/web3-eth-accounts.html
+     https://ethereum.stackexchange.com/questions/52345/is-there-a-way-to-generate-multiple-addresses-at-once
 
 2. Distribute tokens to list of wallets gained from step 1. Reference
 
-https://ethereum.stackexchange.com/questions/27778/distribute-token-to-multiple-address/27780#27780
+     https://ethereum.stackexchange.com/questions/27778/distribute-token-to-multiple-address/27780#27780
 
 
 3. Attempt to deploy on Komodo, see how that goes
