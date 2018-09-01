@@ -11,7 +11,7 @@ To access MettaDev wallet follow these steps.
 
 >metta_pk is the private key
 
-#To-Do
+# To-Do
 
 1. Establish automated wallet creation process. This should help 
 
