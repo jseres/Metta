@@ -1,7 +1,7 @@
 pragma solidity ^0.4.18;
 
 // ----------------------------------------------------------------------------
-// '0Fucks' token contract
+// 'MTA' token contract
 //
 // Deployed to : 0x40Fc7a8e351c9ce0b55ed14D65D84D2932Bde7cc
 // Symbol      : MTA
